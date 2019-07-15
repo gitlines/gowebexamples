@@ -1,11 +1,11 @@
 +++
 weight = 1
-title = "Hello World"
+title = "First Own"
 tags = ["testTag"]
-description = "This examples shows how to create an HTTP server using the net/http package from the standard library. It contains all functionalities about the HTTP protocol."
+description = "Some description"
 +++
 
-# Hello World
+# First Own
 
 ## Introduction
 Go is a battery included programming language and has a webserver already built in.
